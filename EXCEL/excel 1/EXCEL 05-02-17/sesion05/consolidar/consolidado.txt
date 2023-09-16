@@ -1,0 +1,52 @@
+consolidaDO DE TIENDAS
+a) DEFINA LOS SIGUIENTES NOMBRES
+DE RANGO
+
+BREÑA!a3:D12 =====> breña
+LINCE!A3:D13 =====> LINCE
+surco!a3:d11 =====> SURCO
+
+B) SELECCIONE TOTAL!A3:E13
+ficha: datos
+grupo: herramientas de datos
+comando: consolidar
+C) CLIC EN [AcEPTAR]
+
+
+siguiente archivo
+----------------------------------------------------
+
+LUNES!A3:m18 	===========> TABLA1
+MARTES!A3:m18	===========> TABLA2
+miercoles!a3:m19===========> TABLA3
+jueves!a3:m20	===========> TABLA4
+viernes!a3:m19	===========> TABLA5
+
+a) seleccione Total!a3:m23
+b) CONSOLIDAR
+c) agregar las referencias: TABLA1, TABLA2, TABLA3
+TABLA4 y TABLA5
+d) no olvide activar:
+[x] fila superior
+[x] columna izquierda
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
